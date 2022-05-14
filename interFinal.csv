@@ -1,0 +1,12 @@
+sector_id,name,count,percentage
+3,Materials,16,10.7
+6,Industrials,18,12.0
+2,Real Estate,22,14.7
+10,Energy,36,24.0
+4,Communication Services,2,1.3
+1,Healthcare,9,6.0
+9,Information Technology,9,6.0
+7,Consumer Staples,11,7.3
+8,Financials,10,6.7
+11,Utilities,8,5.3
+5,Consumer Discretionary,9,6.0

@@ -1,0 +1,14 @@
+Prior to coding, I had a few thorough rounds of reading through the task to make sure I fully understood the task. 
+
+Having chosen JS with which to complete the task (being the package I am most comfortable with), I thought I would first need to install node and express to create a server.
+I then thought that saving the csv data would involve creating and array of objects, separating the objects using split() selecting comma as the delimiter. I thought I would then
+need to link this to an index.html page that ultimately displays the data.
+
+Starting out and through the project I struggled to find a way to manipulate the interactions data in a way that I could produce a unique list of entries selecting by sector_id, and 
+finding the sum of all entries, after producing percentage scores for number of entries per sector based on total entries. My workaround here was to
+first clean and sort the data in excel before pulling it to the app.js.
+
+To improve the app, I would need to find the problems that are preventing the index.html page from pulling in the TableCSV data. I also need to find a way to sort the data and produce a list of unique entries with a count per entry type, after producing percentages for them each
+as requested in the Tech Test. 
+
+Another improvement would have been to find to allow the user to filter data on the page. I imagine I would need to make several arrays, and create get requests that will pull data based on the users choice.
